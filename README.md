@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Warudkar
 - 👀 I’m interested in Exploring and learning more about Data Science
-- 🌱 I’m currently learning Big Data Analytics
+- 🌱 I’m Skilled in Big Data Analytics
 - 💞️ I’m looking to collaborate on Machine Learning and Big data Projects
 - 📫 How to reach me - LinkedLn
 
