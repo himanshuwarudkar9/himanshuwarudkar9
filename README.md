@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/245385808/f1342400-cbd9-11eb-84d5-36d6ce41d01a)
 <h1 align="center">Hi 👋, I'm Himanshu Warudkar</h1>
 <h3 align="center">Data Enthusiast | AI and ML Explorer</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6169542-Developer-Animation")>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuwarudkar9&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuwarudkar9" /> </p>
 
